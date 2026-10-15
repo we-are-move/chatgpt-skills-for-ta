@@ -1,6 +1,6 @@
 # ChatGPT Skills for TA
 
-Created by [Move](https://www.wearemove.com/) · [Visit wearemove.com](https://www.wearemove.com/)
+Created by Move · [wearemove.com](https://www.wearemove.com/)
 
 Move's full TA Hiring Stack, packaged as **one plugin** in **one marketplace**. Version **0.2.0** contains **13 skills covering 24 hiring workflows**, including the LinkedIn Profile Auditor and the full **66-prompt TA Prompt Bank**.
 
