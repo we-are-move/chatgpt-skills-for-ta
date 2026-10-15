@@ -1,7 +1,7 @@
 {
   "name": "chatgpt-skills-for-ta",
-  "version": "0.1.0",
-  "description": "A pilot recruiting skill by Move: assess the level of a role from its job specification.",
+  "version": "0.2.0",
+  "description": "Move's full TA Hiring Stack: 13 skills covering 24 hiring workflows, plus a 66-prompt bank.",
   "author": {
     "name": "Move",
     "url": "https://www.wearemove.com"
@@ -14,8 +14,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "ChatGPT Skills for TA",
-    "shortDescription": "Assess role levels and seniority",
-    "longDescription": "One-skill pilot by Move. Role Calibrator compares titles, responsibilities and internal pay ladders, then prepares hiring-manager and interview questions.",
+    "shortDescription": "The full TA hiring skills collection",
+    "longDescription": "13 recruiting skills from Move covering market mapping, role calibration, job specs, outreach, interview packs, shortlisting, motivation, pipeline analytics, hiring updates and LinkedIn profiles. Includes 66 prompts and branded document and spreadsheet assets. Some workflows require local code execution, web search or connected Slack.",
     "developerName": "Move",
     "category": "Productivity",
     "capabilities": [
@@ -27,7 +27,9 @@
     "composerIcon": "./assets/icon.svg",
     "logo": "./assets/icon.svg",
     "defaultPrompt": [
-      "Use role-calibrator to assess the level of this role."
+      "Show me the hiring skills and prompts available.",
+      "Assess the level of this role.",
+      "Build an interview pack for this role."
     ]
   },
   "repository": "https://github.com/we-are-move/chatgpt-skills-for-ta"
