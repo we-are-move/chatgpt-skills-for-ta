@@ -8,8 +8,8 @@ Move's full TA Hiring Stack, packaged as **one plugin** in **one marketplace**. 
 
 1. Open **Plugins → Personal → Add plugin marketplace**.
 2. Paste **https://github.com/we-are-move/chatgpt-skills-for-ta** into **Source**. Leave **Git ref** and **Sparse paths** blank.
-3. Select **Add marketplace**, then open **ChatGPT Skills for TA** and install it once.
-4. Start a new chat and select a skill, or ask: **Show me the hiring skills and prompts available.**
+3. Select **Add marketplace**, then go back to **Plugins → Personal**. **ChatGPT Skills for TA** will now be listed there. Open it, click **Install**, and wait for the installation to finish.
+4. Once installation is complete, start a **new chat** and select a skill, or ask: **Show me the hiring skills and prompts available.**
 
 Adding the marketplace makes the plugin available. Installing the plugin installs the complete collection; individual skills do not need separate installation. Availability can depend on app version and workspace policies.
 
