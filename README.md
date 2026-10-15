@@ -1,5 +1,7 @@
 # ChatGPT Skills for TA
 
+Created by [Move](https://www.wearemove.com/) · [Visit wearemove.com](https://www.wearemove.com/)
+
 Move's full TA Hiring Stack, packaged as **one plugin** in **one marketplace**. Version **0.2.0** contains **13 skills covering 24 hiring workflows**, including the LinkedIn Profile Auditor and the full **66-prompt TA Prompt Bank**.
 
 ## Install in the ChatGPT desktop app
@@ -61,6 +63,6 @@ The one-skill marketplace installation and Role Calibrator pilot were successful
 
 ## About and rights
 
-Created by [Move](https://www.wearemove.com). This is an independently created plugin, not an official OpenAI product. Move retains rights to its original methodology and content; no open-source licence is granted by this package.
+Created by [Move](https://www.wearemove.com/). This is an independently created plugin, not an official OpenAI product. Move retains rights to its original methodology and content; no open-source licence is granted by this package.
 
 [Plugin packaging guidance](https://developers.openai.com/plugins/build/plugins)
